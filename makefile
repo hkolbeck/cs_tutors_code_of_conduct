@@ -1,0 +1,2 @@
+cs_tutor_code_of_conduct.pdf: cs_tutor_code_of_conduct.tex
+	pdflatex cs_tutor_code_of_conduct.tex
